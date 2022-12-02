@@ -128,7 +128,6 @@ img.emoji {
 			</footer>
 			</div>
 	<script type="text/javascript">var send = XMLHttpRequest.prototype.send;
-
     // XMLHttpRequest.prototype.send = function(data) {
         // console.log({
         //     data,
@@ -139,22 +138,12 @@ img.emoji {
     // };
     XMLHttpRequest.prototype.open = (function(open) {
         return function(method,url,async) {
-            console.log('the outgoing url is ',arguments[1]);
-
             if (arguments[1].includes('admin-ajax.php')) {
-                console.log(['rewriting url']);
                 arguments[1].replace(window.location.origin, '');
             }
             open.apply(this,arguments);
         };
-    })(XMLHttpRequest.prototype.open);
-
-    // XMLHttpRequest.prototype.open = function(method,url,async) {
-    //     console.log('the outgoing url is ',url);
-    //     console.log(arguments);
-    //     open.apply(this,arguments);
-    // };
-            
+    })(XMLHttpRequest.prototype.open);   
 
 
     $(".wpcf7-submit").on("click",function(e){
