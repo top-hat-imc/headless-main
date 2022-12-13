@@ -2,13 +2,13 @@
 <html>
 	<head>
 		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=/?post_type=wpcf7_contact_form&#038;p=5">
+		<meta http-equiv="refresh" content="0;url=https://headless-main.netlify.app/?post_type=wpcf7_contact_form&#038;p=5">
 	</head>
 	<body>
 		<script type="text/javascript">
-			window.location = "/?post_type=wpcf7_contact_form&#038;p=5";
+			window.location = "https://headless-main.netlify.app/?post_type=wpcf7_contact_form&#038;p=5";
 		</script>
 
-		<p>You are being redirected to <a href="/?post_type=wpcf7_contact_form&#038;p=5">/?post_type=wpcf7_contact_form&#038;p=5</a></p>
+		<p>You are being redirected to <a href="https://headless-main.netlify.app/?post_type=wpcf7_contact_form&#038;p=5">https://headless-main.netlify.app/?post_type=wpcf7_contact_form&#038;p=5</a></p>
 	</body>
 </html>
