@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Home Page	</title>
-	<atom:link href="/headless-main/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>/headless-main/</link>
+	<atom:link href="https://headless-main.netlify.app/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://headless-main.netlify.app/</link>
 	<description>Hit the browser head-on</description>
 	<lastBuildDate>Wed, 30 Nov 2022 16:26:12 +0000</lastBuildDate>
 	<sy:updatePeriod>
