@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: What You Should Keep in Mind When Building a New Home	</title>
+	<atom:link href="https://headless-main.netlify.app/blog/2020/10/07/what-you-should-keep-in-mind-when-building-a-new-home/feed/" rel="self" type="application/rss+xml" />
+	<link>https://headless-main.netlify.app/blog/2020/10/07/what-you-should-keep-in-mind-when-building-a-new-home/</link>
+	<description>Hit the browser head-on</description>
+	<lastBuildDate>Wed, 07 Oct 2020 16:45:12 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>
