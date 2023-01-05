@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Energy Efficiency: What it is and Why it Matters	</title>
+	<atom:link href="https://headless-main.netlify.app/blog/2020/12/29/what-makes-a-home-energy-efficient-and-why-it-matters/feed/" rel="self" type="application/rss+xml" />
+	<link>https://headless-main.netlify.app/blog/2020/12/29/what-makes-a-home-energy-efficient-and-why-it-matters/</link>
+	<description>Hit the browser head-on</description>
+	<lastBuildDate>Tue, 29 Dec 2020 18:30:00 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+</channel>
+</rss>
